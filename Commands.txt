@@ -1,5 +1,7 @@
 cd SamplePrismaProject
 
+npm i 
+
 npm install @prisma/client
 
 npm install prisma --save-dev
